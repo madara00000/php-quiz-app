@@ -1,0 +1,85 @@
+body{
+    background: linear-gradient(to left ,red,orange);
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+.boos{
+    background: linear-gradient(to left ,orange,red);
+    text-align: center; 
+    border-radius: 20px;
+    border: 1px solid white;
+    width: 500px;
+    max-width: 50%;
+    display: inline-block;
+}
+.div3_header{
+    margin: 30px;
+    text-align: center;
+}
+.respo_header{
+    display: none;
+}
+.tith11_tit{
+    text-transform: capitalize;
+}
+.div7_container{
+    display: none;
+}
+.div8_pr{
+    background-color:white;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: left;
+    color: black;
+}
+.div14_btP{
+    display: inline-block;
+    margin: 20px;
+}
+.btn_P{
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    background-color:white;
+}
+.resp_di_btn_res{
+    display: none;
+}
+.btn_res:hover{
+    background-color: green;
+    color: white;
+}
+
+
+.vice_boos_res{
+    display: none;
+    padding: 10px;
+}
+.body_res{
+    text-align: center;
+}
+.di_gif_reac{
+    text-align: center;
+    margin: 10px;
+}
+.di_img_leo{
+    margin: auto;
+}
+.gif_leo{
+    width: 100%;
+    border-radius: 10px;
+}
+.list_errors{
+    background-color: white;
+    border-radius: 20px;
+    color: black;
+}
+.di_errors{
+    margin: 10px;
+    padding: 10px;
+}
+.di_btn_refaire{
+    margin: 20px;
+}
